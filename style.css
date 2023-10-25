@@ -1,6 +1,9 @@
 body {
-    background: rgba(89, 0, 100, 0.548)
+    background: rgba(88, 0, 100, 0.377)
 }
-#banner {
-    width: ;
+p{
+    text-align: center;
+}
+em strong{
+    color:rgb(0, 24, 161)
 }
