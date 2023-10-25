@@ -1,9 +1,23 @@
 body {
-    background: rgb(158, 216, 255)
+    background: #b0fcff
 }
-p{
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
     text-align: center;
 }
-em strong{
-    color:rgb(0, 24, 161)
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #030f77;
 }
