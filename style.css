@@ -1,10 +1,11 @@
-body {
-    background: #ded0ff8f
-}
+body {}
 
 #banner {
     width: 100%;
 }
+
+.principal{  
+    background: #ded0ff8f}
 
 h1 {
     text-align: center
