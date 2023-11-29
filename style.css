@@ -5,7 +5,7 @@ body {}
 }
 
 .principal{  
-    background: #ded0ff8f}
+    background: #ded0ff8}
 
 h1 {
     text-align: center
@@ -29,6 +29,7 @@ em strong {
 
 .beneficios{
     background: rgba(96, 12, 175, 0.61);
+    padding: 20px;
 }
 
 h2{
