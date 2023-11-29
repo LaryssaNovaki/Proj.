@@ -1,11 +1,14 @@
-body {}
+body {
 
+}
+
+.principal{
+    background: rgba(219, 129, 255, 0.616), 204, 204);
+    padding: 30px;
 #banner {
     width: 100%;
 }
 
-.principal{  
-    background:rgb(232, 183, 252)}
 h1 {
     text-align: center
 }
