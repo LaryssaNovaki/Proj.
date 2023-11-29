@@ -1,4 +1,4 @@
-body {}
+body {
 
 #banner {
     width: 100%;
@@ -6,7 +6,7 @@ body {}
 
 .principal{  
     background:rgb(232, 183, 252)}
-
+}
 h1 {
     text-align: center
 }
